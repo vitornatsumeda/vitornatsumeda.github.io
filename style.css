@@ -1,0 +1,42 @@
+h1, h2 {
+    color: seagreen;
+}
+h1{
+    display: block;
+    text-align: center;
+    padding: 5px;
+}
+.imagem{
+    float:left;
+    height: 400px;
+    width: 300px;
+    margin-right: 100px;
+    margin-left: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.Lista1{
+    display: inline-block;
+    height: 400px;
+    width: 400px;
+    margin-top: 10px;
+    margin-right: 70px;
+}
+
+.Lista2{
+    display: inline-block;
+    height: 400px;
+    width: 400px;
+    margin-top: 0px;
+}
+
+li{
+    color: black;
+}
+
+.links{
+    display: block;
+    margin-top: 70px;
+    text-align: center;
+}
